@@ -1,8 +1,6 @@
-# Helloo 😄
+## Helloo, I'm Roz 😄
 
-## I'm Roz,
-
-an aspiring full-stack web developer and sustainable fashion enthusiast.
+... an aspiring full-stack web developer and sustainable fashion enthusiast.
 
 ### 🌱 At the moment I'm...
 
