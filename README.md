@@ -13,6 +13,7 @@
 - create a responsive **React** app that fetches data from my own or a third-party API and displays it logically and accessibly;
 - manipulate the **DOM** using **Vanilla JavaScript**;
 - build a **RESTful API** using **NodeJS**, **Express**, and the **MVC** pattern;
+- build a **GraphQL** backend with **Express-GraphQL**;
 - create, seed and interact with **relational databases** using **PostgreSQL** and **Knex**;
 - **test** the functionality of my code using **Mocha**/**Chai**, **Jest** and **Supertest**;
 - **pair-programme** in-person and remotely;
