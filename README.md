@@ -1,26 +1,19 @@
-## Helloo, I'm Roz 😄
+## Hello, I'm Roz 😄
 
-... an aspiring full-stack web developer and sustainable fashion enthusiast.
+... a full-stack developer specialising in iOS app development.
 
-### 🌱 At the moment I'm...
+### 👉 Ask me about...
 
-- working on my first full-stack group project at Northcoders bootcamp;
-- honing my problem-solving skills on Codewars;
-- looking for my first role as a software developer.
+- Swift
+- MVVM design pattern
+- SwiftUI for iOS, iPadOS and MacOS
+- Building pixel-perfect UI from Figma designs
+- SwiftUI integration with UIKit
+- Firebase tools: Firestore Database, Realtime Database, Analytics
+- Core Data
+- App Store Connect
+- App localisation
 
-### 🎓 So far I've learnt how to...
+### 🗣️ Interested?
 
-- create a responsive **React** app that fetches data from my own or a third-party API and displays it logically and accessibly;
-- manipulate the **DOM** using **Vanilla JavaScript**;
-- build a **RESTful API** using **NodeJS**, **Express**, and the **MVC** pattern;
-- build a **GraphQL** backend with **Express-GraphQL**;
-- create, seed and interact with **relational databases** using **PostgreSQL** and **Knex**;
-- **test** the functionality of my code using **Mocha**/**Chai**, **Jest** and **Supertest**;
-- **pair-programme** in-person and remotely;
-- build a **responsive website** with **HTML5**, **CSS3** and **Bootstrap**;
-- create my own high-resolution **graphics** in **Adobe Illustrator**.
-
-### 🗣️ Interested? Take a look at my work below or connect with me on...
-
-- [LinkedIn](https://www.linkedin.com/in/rosalynland/)
-- [Twitter](https://twitter.com/rosalynland)
+Take a look at my work below or connect with me on [LinkedIn](https://www.linkedin.com/in/rosalynland)
